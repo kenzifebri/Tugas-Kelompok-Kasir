@@ -1,9 +1,18 @@
+# Tugas Kelompok - Latihan 1 (Kasir Diskon)
+
+Latihan pertemuan ke 2 **DART** untuk menghitung total pembayaran pelanggan berdasarkan jumlah belanja dan status keangotaan (member).
+
+## Deskripsi Aturan Bisnis (Business Rule)
+Program ini menerapkan beberapa aturan diskon sebagai berikut:
+- Belanja minimal **100.000** mendapatkan diskon dasar 10%.
+- Pelanggan dengan status **member** mendapatkan tambahan diskon 5%.
+- Potongan diskon maksmimal yang bisa di dapatkan pelanggan adalah **25.000**.
+
+# Anggota kelompok
+1. M anggara (1124160219)
+2. Kenzie Gabriel (1124160008)
+
 ```dart
-// Tugas Kelompok - Latihan 1 (kasir diskon)
-
-// Nama Kelompok =  1. M. Anggara (1124160219)
-//                  2. Kenzie Gabriel (1124160008)
-
 
 // fungsi enum adalah untuk memilih tipe pelanggan
 
